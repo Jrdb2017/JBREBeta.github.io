@@ -1,0 +1,38 @@
+#title {
+  margin: 1rem;
+  padding: 40px;
+  text-align: center;
+  font-size: 5rem;
+  color: rgb(17, 17, 17);
+}
+#search {
+  padding: 15px 25px 30px;
+  width: 40%;
+  text-align: left;
+}
+#map {
+  width: 45%;
+  text-align: left;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+#page {
+  background-color: darkgray;
+}
+/*#table {
+  width: 1300px;
+  height: 500px;
+  text-align: center;
+  overflow-x: auto;
+} 
+#CommentInput {
+  width: 30%;
+}
+#button {
+  width: 10%;
+}
+*/
+#CommentList {
+  margin-top: 25px;
+  height: 200px;
+}
